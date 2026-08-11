@@ -5,5 +5,8 @@
      </head>
      <body>
            <h1>DEMO WEBSITE</h1>
+           <p>To get these messages, customers have to give the business their mobile phone number and opt into SMS marketing. Businesses often draft and automate messages ahead of time to send to groups of customers at once, so there’s no manual writing or sending to each number. </p>
+           <a href="https://google.com">GOOGLE</a>
+           <img src="" alt="Testing Image" width="200" height="200">
      </body>
 </html>
