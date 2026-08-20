@@ -11,9 +11,6 @@
            <a href="https://yahoo.com">YAHOO</a>
            <h3><b>Contact Us</b></h3>
            <p>Mobile Number: 8985707050</p>
-<<<<<<< HEAD
-=======
            <p>City : GUNTUR</p>
->>>>>>> MyBranch
      </body>
 </html>
